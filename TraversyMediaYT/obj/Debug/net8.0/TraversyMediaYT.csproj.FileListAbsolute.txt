@@ -1,0 +1,14 @@
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\bin\Debug\net8.0\TraversyMediaYT.exe
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\bin\Debug\net8.0\TraversyMediaYT.deps.json
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\bin\Debug\net8.0\TraversyMediaYT.runtimeconfig.json
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\bin\Debug\net8.0\TraversyMediaYT.dll
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\bin\Debug\net8.0\TraversyMediaYT.pdb
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\TraversyMediaYT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\TraversyMediaYT.AssemblyInfoInputs.cache
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\TraversyMediaYT.AssemblyInfo.cs
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\TraversyMediaYT.csproj.CoreCompileInputs.cache
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\TraversyMediaYT.dll
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\refint\TraversyMediaYT.dll
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\TraversyMediaYT.pdb
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\TraversyMediaYT.genruntimeconfig.cache
+C:\Users\msazm\projects\TraversyMediaYT\TraversyMediaYT\obj\Debug\net8.0\ref\TraversyMediaYT.dll
